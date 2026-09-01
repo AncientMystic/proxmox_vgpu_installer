@@ -9,6 +9,10 @@ It provides a user-friendly interface to upload the driver, apply patches, confi
 
 ---
 
+**WARNING:** currently not completely tested. it should work but i do not have a spare machine to setup from zero currently. so please report issues. 
+
+---
+
 ## Screenshot
 
 ![Proxmox vGPU Installer GUI](https://github.com/AncientMystic/proxmox_vgpu_installer/blob/main/proxmox-vgpu-installer.jpg)
